@@ -1,0 +1,13 @@
+Food
+
+attributes
+price (float)
+quantity (integer)
+category (string)
+LTO (boolean)
+
+methods
+order (reduces quantity by number ordered)
+discount ( reduces the price)
+make_limited (sets LTO to true)
+change_category (changes item category ex from small plate to appetizer)
