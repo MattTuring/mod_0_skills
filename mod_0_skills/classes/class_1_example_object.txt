@@ -1,0 +1,11 @@
+Steak is instance of the food class
+
+price (23.00)
+quantity (12)
+category ('entree')
+LTO (false)
+
+order (quantity - 1)
+discount (price - (price * .15))
+make_limited (LTO = true)
+change_category (category = specials)
