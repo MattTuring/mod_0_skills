@@ -1,0 +1,13 @@
+staff
+
+attributes
+clockedIn (boolean)
+area (string)
+id (integer)
+laborRate (float)
+
+methods
+ClockIn (sets clockedIn to true)
+ClockOut (sets clockedIn to false)
+setArea (sets location working)
+giveRaise (increases laborRate)

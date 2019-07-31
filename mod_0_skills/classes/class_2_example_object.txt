@@ -1,0 +1,13 @@
+Jim is an example of the staff class
+
+attributes
+clockedIn (true)
+area ('bar')
+id (1902)
+laborRate (21.50)
+
+methods
+ClockIn (clockedIn = true)
+ClockOut (clockedIn = false)
+setArea (area = 'kitchen')
+giveRaise (laborRate + raise)
