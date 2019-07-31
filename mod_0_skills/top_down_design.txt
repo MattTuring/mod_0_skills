@@ -1,0 +1,44 @@
+Become a Turing Student
+ 1 Apply
+   1.1 Send in resume
+   1.2 Take logic test
+ 2 Interview
+   2.1 Select Interview Time
+   2.2 Go to Interview
+   2.3 Do logic test
+   2.4 Q&A
+    2.4.1 Q1
+    2.4.2 Q2
+    2.4.3 Q3
+ 3 Acceptance
+   3.1 Pay Down Payment
+   3.2 Receive laptop
+ 4 Capstone
+   4.1 Setup
+     4.1.1 Board
+     4.1.2 Do Task on board
+   4.2 Day 1
+     4.2.1 Read Chapters
+     4.2.2 Do Gist
+   4.3 Day 2
+     4.3.1 Read Chapters
+     4.3.2 Do Gist
+   4.4 Day 3
+     4.4.1 Read Chapters
+     4.4.2 Do Gist
+   4.5 Day 4
+     4.5.1 Read Chapters
+     4.5.2 Do Gist
+   4.6 Day 5
+     4.6.1 Read Chapters
+     4.6.2 Do Gist
+   4.7 Day 6
+     4.7.1 Read Chapters
+     4.7.2 Do Gist
+   4.8 Day 7
+     4.8.1 Read Capstone
+     4.8.1 Do Gist
+   4.9 Submit
+     4.9.1 Development
+     4.9.2 Capstone
+     4.9.3 Gear Up
